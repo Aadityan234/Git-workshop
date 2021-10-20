@@ -4,3 +4,6 @@ tea
 coffee
 milk egg
 onions
+eggs
+pizza
+burger
